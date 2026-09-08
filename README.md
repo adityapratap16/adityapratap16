@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+%26+Network+Security+Learner;Building+Real-World+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LalitRXCore&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=adityapratap16&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -71,16 +71,30 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalitRXCore&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/LalitRXCore)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitRXCore&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LalitRXCore)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapratap16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/adityapratap16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapratap16&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/adityapratap16)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LalitRXCore&theme=tokyonight&hide_border=true)](https://github.com/LalitRXCore)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityapratap16&theme=tokyonight&hide_border=true)](https://github.com/adityapratap16)
 
 </div>
 
 ---
 
 ## 🧠 Currently Learning
+
+Computer Science Engineering
+│
+├── Data Structures & Algorithms
+│
+├── Computer Networks
+│
+├── Artificial Intelligence
+│
+├── Machine Learning
+│
+└── Cybersecurity
+
+
 ---
 
 ## 🎯 2026 Goals
@@ -99,8 +113,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-1b6a93352?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya%20Pratap%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapratap16/adityapratap16/blob/main/README.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-1b6a93352)
+[![GitHub](https://img.shields.io/badge/GitHub-adityapratap16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapratap16)
 
 </div>
 
