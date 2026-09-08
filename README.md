@@ -1,34 +1,33 @@
-👋 Hi, I'm Aditya Pratap Singh
 
+---
 
-🧑‍💻 About Me
-🎓 Computer Science Engineering Student
-🤖 Passionate about Artificial Intelligence & Machine Learning
-🛡️ Exploring Cybersecurity & Network Security
-🌐 Interested in Computer Networks & Systems
-💻 Building practical projects to turn concepts into real-world solutions.
-🚀 Always learning, experimenting, and improving.
-⚡ Tech Stack
+## 🎯 2026 Goals
 
-🤖 AI / Machine Learning
+- 🚀 Build advanced AI/ML projects
+- 🧠 Strengthen Data Structures & Algorithms
+- 🌐 Master Computer Networks
+- 🛡️ Learn advanced Cybersecurity
+- 💻 Contribute to Open Source
+- 📚 Build industry-ready projects
+- 🎓 Grow as a Software Engineer
 
-`NumPy` • `Pandas` • `Scikit-Learn` • `Machine Learning` • `Data Analysis`
-🛡️ Cybersecurity
-`Network Security` • `Intrusion Detection` • `Network Traffic Analysis` • `Security Fundamentals`
-🚀 Featured Project
-🛡️ AI-Powered Real-Time Network Intrusion Detection System
-An AI/ML-based cybersecurity project designed to analyze network traffic and identify potentially malicious activity.
-Focus Areas
+---
 
-* 🔍 Network Traffic Analysis
-* 🧹 Data Preprocessing
-* ⚙️ Feature Engineering
-* 🤖 Machine Learning Classification
-* 🛡️ Intrusion Detection
-* ⚡ Real-Time Prediction
+## 🤝 Let's Connect
 
-Tech: `Python` `Machine Learning` `Cybersecurity` `Computer Networks`
-📊 GitHub Analytics
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-singh-5b2a72394/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya%20Pratap%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalitRXCore)
 
-🧠 Currently Learning
+</div>
+
+---
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer)
+
+<div align="center">
+
+💡 **Learn • Build • Innovate • Repeat**
+
+</div>
