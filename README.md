@@ -100,7 +100,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh-1b6a93352?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-Aditya%20Pratap%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LalitRXCore)
+[![GitHub](https://img.shields.io/badge/GitHub-Aditya%20Pratap%20Singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapratap16/adityapratap16/blob/main/README.md)
 
 </div>
 
