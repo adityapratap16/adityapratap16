@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Aditya Pratap Singh
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+%26+Network+Security+Learner;Building+Real-World+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LalitRXCore&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
